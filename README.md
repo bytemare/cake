@@ -1,5 +1,4 @@
-Cake - the CPace AKE
----
+# Cake - the CPace AKE
 
 Cake is CPace implemented with the Ristretto group. Easy to use, hard to misuse, it's a piece of cake.
 
