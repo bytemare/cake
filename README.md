@@ -1,4 +1,6 @@
 # Cake - the CPace AKE
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbytemare%2Fcake.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbytemare%2Fcake?ref=badge_shield)
+
 
 Cake is CPace implemented with the Ristretto group. Easy to use, hard to misuse, it's a piece of cake.
 
@@ -115,3 +117,7 @@ Special thanks to
 - The [Hash-to-curve](https://datatracker.ietf.org/doc/draft-irtf-cfrg-hash-to-curve) team
 
 Many others.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbytemare%2Fcake.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbytemare%2Fcake?ref=badge_large)
